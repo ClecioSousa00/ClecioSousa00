@@ -16,6 +16,7 @@
   <img style="width:80px" alt = "HTML5" src = "https://icons.iconarchive.com/icons/igh0zt/ios7-style-metro-ui/256/MetroUI-Apps-HTML-5-icon.png"/>
    <img style="width:80px" alt = "CSS" src = "https://icons.iconarchive.com/icons/martz90/hex/256/css-3-icon.png"/>
    <img style="width:80px" alt = "JavaScript" src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
+   <img style="width:80px" alt = "React" src = "https://cdn-icons-png.flaticon.com/512/1260/1260667.png"/>
 </div><br/>
 
-Se você precisa de uma mão na criação de sua próxima solução Front-End, não hesite em me procurar! Estou sempre pronto para colaborar e ajudar a transformar suas ideias em realidade.
+
