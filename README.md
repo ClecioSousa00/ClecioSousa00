@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu perfil de desenvolvedor Front-End!
 
-  Sou apaixonado por tecnologias e adoro transformar ideias em soluções reais com o uso de código. Como desenvolvedor Front-End, tenho expertise em HTML, CSS e JavaScript, além de ter conhecimento em frameworks. Além disso, busco trabalhar em equipe e colaborar com outros desenvolvedores para produzir soluções ainda melhores.
+  Sou apaixonado por tecnologias e adoro transformar ideias em soluções reais com o uso de código. Como desenvolvedor Front-End, tenho experiência em HTML, CSS e JavaScript, além de ter conhecimento em frameworks. Além disso, busco trabalhar em equipe e colaborar com outros desenvolvedores para produzir soluções ainda melhores.
   Se você precisa de uma mão na criação de sua próxima solução Front-End, não hesite em me procurar! Estou sempre pronto para colaborar e ajudar a transformar suas ideias em realidade.
 
 
