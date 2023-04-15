@@ -1,22 +1,30 @@
 ### Bem-vindo ao meu perfil de desenvolvedor Front-End!
 
-  Sou apaixonado por tecnologias e adoro transformar ideias em soluções reais com o uso de código. Como desenvolvedor Front-End, tenho experiência em HTML, CSS e JavaScript, além de ter conhecimento em frameworks. Além disso, busco trabalhar em equipe e colaborar com outros desenvolvedores para produzir soluções ainda melhores.
-  Se você precisa de uma mão na criação de sua próxima solução Front-End, não hesite em me procurar! Estou sempre pronto para colaborar e ajudar a transformar suas ideias em realidade.
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+  
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Graduando em **Ciência da computação** na UEPB Câmpus VII (Patos)
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript, HTML, CSS, React, React Native**.
+  
+  
 
 ![ClecioSousa00 GitHub stats](https://github-readme-stats.vercel.app/api?username=ClecioSousa00&show_icons=true&theme=dark)
 
 
-### Tecnologias
+<h3> :rocket: &nbsp;Tecnologias </h3>
 
-<div>
-  <img style="width:80px" alt = "HTML5" src = "https://icons.iconarchive.com/icons/igh0zt/ios7-style-metro-ui/256/MetroUI-Apps-HTML-5-icon.png"/>
-   <img style="width:80px" alt = "CSS" src = "https://icons.iconarchive.com/icons/martz90/hex/256/css-3-icon.png"/>
-   <img style="width:80px" alt = "JavaScript" src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
-   <img style="width:80px" alt = "React" src = "https://cdn-icons-png.flaticon.com/512/1260/1260667.png"/>
-</div><br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.figma.com/file/8w80Pbb3FUlcokyhjvw6w7/Developer's-Portfolio?node-id=0-1&t=aSpF7Xb5gqjUoXtX-0)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
