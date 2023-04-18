@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
