@@ -3,7 +3,7 @@
   
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduando em **Ciência da computação** na UEPB Câmpus VII (Patos)
-- 🌱 &nbsp; Aprendendo mais sobre **TypeScript, React, React Native**.
+- 🌱 &nbsp; Aprendendo mais sobre **TypeScript, React, React Native e Testes no front-end**.
   
   
 
