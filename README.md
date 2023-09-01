@@ -3,7 +3,7 @@
   
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduando em **Ciência da computação** na UEPB Câmpus VII (Patos)
-- 🌱 &nbsp; Aprendendo mais sobre **TypeScript, React, React Native e Testes no front-end**.
+- 🌱 &nbsp; Aprendendo mais sobre **TypeScript, React, React Native**.
   
   
 
@@ -21,7 +21,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
+
 
 
 
