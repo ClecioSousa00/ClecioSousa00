@@ -8,6 +8,7 @@
   
 
 ![ClecioSousa00 GitHub stats](https://github-readme-stats.vercel.app/api?username=ClecioSousa00&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClecioSousa00&layout=compact&theme=dark&langs_count=8)
 
 
 <h3> :rocket: &nbsp;Tecnologias </h3>
