@@ -14,7 +14,7 @@
 
 <h3> :rocket: &nbsp;Tecnologias </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,tailwind,styledcomponents,androidstudio,kotlin,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,tailwind,styledcomponents,git)](https://skillicons.dev)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
