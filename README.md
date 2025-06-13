@@ -3,7 +3,7 @@
   
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduando em **Ciência da computação** na UEPB Câmpus VII (Patos)
-- 🌱 &nbsp; Aprendendo mais sobre **TypeScript, React, React Native**.
+- 🌱 &nbsp; Aprendendo mais sobre **NodeJs**.
 -  :rocket: &nbsp; Meu [repositório](https://portfolio-cleciosousa00.vercel.app/) com alguns de meus projetos.
   
   
@@ -14,7 +14,7 @@
 
 <h3> :rocket: &nbsp;Tecnologias </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,tailwind,styledcomponents,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,nodejs,postgres,express,vitesttailwind,git)](https://skillicons.dev)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
